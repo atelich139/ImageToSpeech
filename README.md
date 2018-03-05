@@ -3,7 +3,7 @@
 ## Dates
 2/16/2018 - 2/18/2018
 ## Made by: Sibi Sengottuvel, Alexander Telich, Rahul Pokharna, Isaac Ng
-
+## Description
 This is a basic image to speech translator Chrome extension using Javascript and Google Vision API.
 
 It was concieved and written over the period of ~36 hours at the 2018 Case Western Reserve Hackathon. (2/16/2018 - 2/18/2018).
