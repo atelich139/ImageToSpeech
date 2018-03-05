@@ -1,5 +1,7 @@
 # ImageToSpeech 
 1st Place winner of the Maker Award HACKCWRU V 2018
+## Dates
+2/16/2018 - 2/18/2018
 ## Made by: Sibi Sengottuvel, Alexander Telich, Rahul Pokharna, Isaac Ng
 
 This is a basic image to speech translator Chrome extension using Javascript and Google Vision API.
@@ -13,13 +15,11 @@ We have developed a browser extension to solve this issue by intelligently gener
 Could potentially teach people to read or pronounce things. Little kids could learn to associate images with labels.
 
 NOTE: THIS EXTENSTION WILL NOT FUNCTION BECAUSE THE GOOGLE API KEY HAS BEEN DELETED.
-
 ## My Role:
 - Implemented the Google Vision API
 - Created the project structure
 - Created the icon
 - Wrote the algorithm to determine the way the program would phrase the description of the image.
-
 ## Websites to Demo:
 1. http://www.rap-up.com/category/photos/album-covers/ 
 2. https://mangapark.me/latest
